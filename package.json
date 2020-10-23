@@ -2,6 +2,7 @@
   "name": "crwn-clothing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://imnamir.github.io/crwn-shop",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -34,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1"
   }
 }
