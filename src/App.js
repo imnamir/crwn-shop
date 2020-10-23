@@ -30,9 +30,9 @@ class App extends React.Component {
       <div>
         <Header currentUser={this.state.currentUser} />
         <Switch>
-          <Route exact path="/" component={HomePage}></Route>
-          <Route path="/shop" component={Shop}></Route>
-          <Route path="/signin" component={SignInSignUp}></Route>
+          <Route exact path="crwn-shop/" component={HomePage}></Route>
+          <Route path="crwn-shop/shop" component={Shop}></Route>
+          <Route path="crwn-shop/signin" component={SignInSignUp}></Route>
         </Switch>
       </div>
     )
