@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crwn-shop/static/css/main.fad78c3c.chunk.css",
-    "main.js": "/crwn-shop/static/js/main.2003dea9.chunk.js",
-    "main.js.map": "/crwn-shop/static/js/main.2003dea9.chunk.js.map",
+    "main.js": "/crwn-shop/static/js/main.7e54ca09.chunk.js",
+    "main.js.map": "/crwn-shop/static/js/main.7e54ca09.chunk.js.map",
     "runtime-main.js": "/crwn-shop/static/js/runtime-main.dd21bc8c.js",
     "runtime-main.js.map": "/crwn-shop/static/js/runtime-main.dd21bc8c.js.map",
     "static/js/2.5db70308.chunk.js": "/crwn-shop/static/js/2.5db70308.chunk.js",
     "static/js/2.5db70308.chunk.js.map": "/crwn-shop/static/js/2.5db70308.chunk.js.map",
     "index.html": "/crwn-shop/index.html",
-    "precache-manifest.ad061e64879803478c4571272d7f73b9.js": "/crwn-shop/precache-manifest.ad061e64879803478c4571272d7f73b9.js",
+    "precache-manifest.be8734be31fd15da202ce8cbc9ca018e.js": "/crwn-shop/precache-manifest.be8734be31fd15da202ce8cbc9ca018e.js",
     "service-worker.js": "/crwn-shop/service-worker.js",
     "static/css/main.fad78c3c.chunk.css.map": "/crwn-shop/static/css/main.fad78c3c.chunk.css.map",
     "static/js/2.5db70308.chunk.js.LICENSE.txt": "/crwn-shop/static/js/2.5db70308.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dd21bc8c.js",
     "static/js/2.5db70308.chunk.js",
     "static/css/main.fad78c3c.chunk.css",
-    "static/js/main.2003dea9.chunk.js"
+    "static/js/main.7e54ca09.chunk.js"
   ]
 }
